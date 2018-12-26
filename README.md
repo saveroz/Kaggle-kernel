@@ -1,2 +1,2 @@
 # Kaggle-kernel
-My kernel in some of kaggle repositories
+My kernel in some of kaggle's competition
